@@ -16,6 +16,11 @@ and pushing work to a shared repository.
 Each project follows a similar structure based on professional Python projects.
 These projects are **hands-on textbooks** for learning Web Mining and Applied NLP.
 
+## Author
+
+* **Kiruthikaa NS**
+* GitHub: https://github.com/Kiruthikaa2512
+
 ## This Project
 
 This project focuses on **exploratory analysis of text data**.
@@ -97,7 +102,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/nlp-03-text-exploration
+git clone https://github.com/kiruthikaa2512/nlp-03-text-exploration
 cd nlp-03-text-exploration
 code .
 ```
